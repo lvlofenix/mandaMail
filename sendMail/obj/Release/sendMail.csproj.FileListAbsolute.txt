@@ -1,0 +1,8 @@
+C:\Users\LucasVinicius\AppData\Local\Temporary Projects\sendMail\bin\Release\sendMail.dll
+C:\Users\LucasVinicius\AppData\Local\Temporary Projects\sendMail\bin\Release\sendMail.pdb
+C:\Users\LucasVinicius\AppData\Local\Temporary Projects\sendMail\obj\Release\sendMail.dll
+C:\Users\LucasVinicius\AppData\Local\Temporary Projects\sendMail\obj\Release\sendMail.pdb
+D:\SITES E PROJETOS\C#\04 CLASSES E DLLS\SOURCE\sendMail\sendMail\bin\Release\sendMail.dll
+D:\SITES E PROJETOS\C#\04 CLASSES E DLLS\SOURCE\sendMail\sendMail\bin\Release\sendMail.pdb
+D:\SITES E PROJETOS\C#\04 CLASSES E DLLS\SOURCE\sendMail\sendMail\obj\Release\sendMail.dll
+D:\SITES E PROJETOS\C#\04 CLASSES E DLLS\SOURCE\sendMail\sendMail\obj\Release\sendMail.pdb
